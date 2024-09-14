@@ -1,2 +1,5 @@
-gameboxdApp/__pycache__
-gameboxdProject/__pycache__
+gameboxdProject/gameboxdApp/__pycache__
+gameboxdProject/gameboxdApp/migrations/__pycache__
+gameboxdProject/gameboxdProject/__pycache__
+gameboxdProject/users/__pycache__
+gameboxdProject/users/migrations/__pycache__
